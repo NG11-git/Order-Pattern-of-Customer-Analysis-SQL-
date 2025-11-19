@@ -29,14 +29,21 @@ This project analyzes customer order patterns using SQL queries on a sample data
 # KEY TASK
 
 Q1: find the count of duplicate rows in the swiggy table 
+
 Q2: Remove Duplicate records from the table 
+
 Q3: Print records from row number 4 to 9
+
 Q4: Find the latest order placed by customers. Refer to the output below
+
 Q5: Print order_id, partner_code, order_date, comment (No issues in place of null else 
 comment). Refer to the output below
+
 Q6: Print outlet wise order count, cumulative order count, total bill_amount, cumulative 
 bill_amount. Refer to the output below 
+
 Q7: Print cust_id wise, Outlet wise 'total number of orders'. Refer to the output below 
+
 Q8: Print cust_id wise, Outlet wise 'total sales. Refer to the output below
 
 # Insights
@@ -51,5 +58,7 @@ Q8: Print cust_id wise, Outlet wise 'total sales. Refer to the output below
 
 
 
+
 Author:-
+
 Nandhu Gopan A V
