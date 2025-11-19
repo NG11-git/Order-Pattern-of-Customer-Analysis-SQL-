@@ -1,0 +1,16 @@
+id,cust_id,order_id,partner_code,outlet,bill_amount,order_date,Comments
+1,SW1005,700,50,KFC,753,2021-10-10,Door locked
+2,SW1006,710,59,Pizza hut,1496,2021-09-01,In-time delivery
+3,SW1005,720,59,Dominos,990,2021-12-10,
+4,SW1005,707,50,Pizza hut,2475,2021-12-11,
+5,SW1006,770,59,KFC,1250,2021-11-17,No response
+6,SW1020,1000,119,Pizza hut,1400,2021-11-18,In-time delivery
+7,SW2035,1079,135,Dominos,1750,2021-11-19,
+8,SW1020,1083,59,KFC,1250,2021-11-20,
+11,SW1020,1100,150,Pizza hut,1950,2021-12-24,Late delivery
+9,SW2035,1095,119,Pizza hut,1270,2021-11-21,Late delivery
+10,SW1005,729,135,KFC,1000,2021-09-10,Delivered
+1,SW1005,700,50,KFC,753,2021-10-10,Door locked
+2,SW1006,710,59,Pizza hut,1496,2021-09-01,In-time delivery
+3,SW1005,720,59,Dominos,990,2021-12-10,
+4,SW1005,707,50,Pizza hut,2475,2021-12-11,
